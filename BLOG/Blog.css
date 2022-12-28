@@ -1,0 +1,38 @@
+body{
+    font-size: medium;
+    background-color: rgb(51, 28, 73);
+    background-image: url(https://miro.medium.com/max/1400/1*u1Ol4tsi18H-dFfJIc4VWQ.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+p{
+    color: aliceblue;
+}
+ol{
+    color: aliceblue;
+}
+ul{
+    color: aliceblue;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+color: aliceblue;
+font-size: 50px;
+text-transform: uppercase;
+font-style: italic;
+}
+
+h2{
+    color: rgb(143, 4, 111);
+    font-size: 40px ;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+h3{
+    color: rgb(226, 43, 208);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+
+}
